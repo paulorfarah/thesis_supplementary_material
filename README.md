@@ -20,3 +20,6 @@ https://github.com/paulorfarah/thesis_supplementary_material/blob/main/methods-c
 
 ## Data
 https://drive.google.com/drive/u/0/folders/1Twu-0p8ekxsduYtPlrWyhyNdWVfsy1ND
+
+## Statistical Analysis
+https://github.com/paulorfarah/statistical-analysis/tree/main/statistical-analysis
