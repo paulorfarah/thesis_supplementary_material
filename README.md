@@ -1,16 +1,18 @@
 # MACHINE LEARNING PREDICTION OF CHANGE-PRONE METHODS AND PERFORMANCE IMPACTFUL CHANGES (thesis_supplementary_material)
-Supplementary material is available below. Here are the URLs to: 
+Supplementary material is available below. Here are the URLs: 
 
-* The source code of the PerfoRT tool; 
 * The scripts used to extract the metrics, preprocess them, and create the ML models;
+* The source code of the PerfoRT tool; 
 * The program to extract methods from Java program classes;
-* The datasets used in the experiments. 
-
-## Perfort: Performance Regression Testing Tool
-https://github.com/paulorfarah/PerfoRT
+* Scripts used to extract methods from Java classes
+* Data used in the experiments.
+* Scripts and data used to create boxplots with statistical analysis
 
 ## Software change prediction (source code)
 https://github.com/paulorfarah/cpmp
+
+## Perfort: Performance Regression Testing Tool
+https://github.com/paulorfarah/PerfoRT
 
 ## JMethodsExtractor (extract methods from Java classes)
 https://github.com/paulorfarah/JMethodsExtractor
